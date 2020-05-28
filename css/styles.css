@@ -3,24 +3,27 @@ body {
 }
 
 .top-container {
-  float: left;
+  display: inline-block;
   margin: 0 20px 0 20px;
   padding: 20px;
   width: 30%;
+  background-color: coral;
 }
 
 .middle-container {
-  float: right;
+  display: inline-block;
   margin: 0 20px 0 20px;
   padding: 20px;
-  width: 30%;
+  width: 30%;background-color: cornflowerblue;
+
 }
 
 .bottom-container {
-  float: none;
+  display: inline-block;
   margin: 0 20px 0 20px;
   padding: 20px;
   width: 30%;
+  background-color: chartreuse;
 }
 
 img {
