@@ -14,8 +14,8 @@ body {
   display: inline-block;
   margin: 0 20px 0 20px;
   padding: 20px;
-  width: 30%;background-color: cornflowerblue;
-
+  width: 30%;
+  background-color: cornflowerblue;
 }
 
 .bottom-container {
